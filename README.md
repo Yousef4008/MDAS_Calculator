@@ -12,7 +12,7 @@ A versatile MDAS (Multiplication, Division, Addition, Subtraction) Calculator im
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository link]
+   git clone [https://github.com/Yousef4008/MDAS_Calculator]
 Navigate to the Project Directory:
 
 bash
