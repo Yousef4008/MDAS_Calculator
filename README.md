@@ -14,4 +14,4 @@ This is a simple yet versatile MDAS Calculator implemented in C on the ATmega32 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [[repository link](https://github.com/Yousef4008/MDAS_Calculator)https://github.com/Yousef4008/MDAS_Calculator]
+   git clone [https://github.com/Yousef4008/MDAS_Calculator)https://github.com/Yousef4008/MDAS_Calculator]
